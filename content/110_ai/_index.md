@@ -6,4 +6,6 @@ weight = 110
 
 # Adding AI
 
-{{% children showhidden="false" %}}{{% /children %}}
+{{% children showhidden="false" %}}
+
+
